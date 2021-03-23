@@ -1,9 +1,10 @@
 # payroll_system_using_python
 
 Contributors:
-    Jatin Chabbra
-    Divyam Sharma
-    Sneha Maiti
+     Sneha Maiti,
+    Jatin Chabbra,
+    Divyam Sharma.
+   
 
  #### The goal of this project is to make a Tkinter GUI for Managing PAYROLL SYSTEM.
  And To Visualize the Relationship among different components 
